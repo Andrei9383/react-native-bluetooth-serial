@@ -17,7 +17,7 @@ Officialy this library supports React Native >= 0.25, it may run on older versio
 
 ## Manual installation
 #### iOS
-1. `npm i -S react-native-bluetooth-serial`
+1. `npm i -S react-native-bluetooth-serial-speedy`
 2. In XCode, in the project navigator, right click `Libraries` ➜ `Add Files to [your project's name]`
 3. Go to `node_modules` ➜ `react-native-bluetooth-serial` and add `RCTBluetoothSerial.xcodeproj`
 4. In XCode, in the project navigator, select your project. Add `libRCTBluetoothSerial.a` to your project's `Build Phases` ➜ `Link Binary With Libraries`
