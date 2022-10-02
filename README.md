@@ -7,7 +7,7 @@ android and ios
 Officialy this library supports React Native >= 0.25, it may run on older versions but no guarantees.
 
 ## Installation
-1. Install package via npm: `npm i -S react-native-bluetooth-serial`
+1. Install package via npm: `npm i -S react-native-bluetooth-serial-speedy`
 2. Link libraries with: `rnpm link` or `react-native link` for React Native >= 0.27
 3. For android you also need to put following code to `AndroidManifest.xml`
 ```
@@ -26,7 +26,7 @@ Officialy this library supports React Native >= 0.25, it may run on older versio
 
 
 #### Android
-1. `npm i -S react-native-bluetooth-serial`
+1. `npm i -S react-native-bluetooth-serial-speedy`
 2. Open up `android/app/src/main/java/[...]/MainActivity.java` or `MainApplication.java` for React Native >= 0.29
   - Add `import com.rusel.RCTBluetoothSerial.*;` to the imports at the top of the file
   - Add `new RCTBluetoothSerialPackage()` to the list returned by the `getPackages()` method
